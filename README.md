@@ -14,6 +14,8 @@
 
 ## Overview
 
+As part of altschool program, we learned about building apis with core node modules. 
+
 ### Built with
 
 - Node http module
