@@ -1,0 +1,14 @@
+{
+  "name": "ass-g-redo",
+  "version": "1.0.0",
+  "description": "assignment to establish routes for Users and Books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justice Etorko-Gbeku",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}

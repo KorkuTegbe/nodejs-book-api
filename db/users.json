@@ -1,0 +1,13 @@
+[
+  {
+    "username": "anotherama",
+    "password": "bainson",
+    "email": "amabain@gmail.com",
+    "role": "admin"
+  },
+  { "username": "john_doe", 
+    "password": "doe!", 
+    "email": "johndoe@gmail.com" ,
+    "role": "reader"
+  }
+]
